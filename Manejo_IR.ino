@@ -14,7 +14,7 @@ void setup() {
    *  blanco, para un margen de valores a obtener que sean aceptados
    *  como tono blanco del sensor
    *  donde en la funcion ir_med() se hace la medicion y se da un tiempo de
-   *  5ms dando asÃ­ 500ms de muestra por sensor y 1 segundo para cambiar
+   *  5ms dando asÃ­ 500ms de muestra por sensor y 2 segundo para cambiar
    *  de color negro a blanco, donde los leds indican cual es el color
    *  que se estÃ¡ evaluando
    */
